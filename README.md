@@ -1,2 +1,1 @@
-# DEVELOPER LOG
-
+# Developer Logs
